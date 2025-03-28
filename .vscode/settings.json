@@ -1,0 +1,19 @@
+{
+    "workbench.colorTheme": "Aura Dracula Spirit",
+    "workbench.activityBar.location": "hidden",
+    "workbench.editor.showTabs": "single",
+    "workbench.statusBar.visible": true,
+    "workbench.startupEditor": "none", 
+    "workbench.tips.enabled": false,
+    "editor.minimap.enabled": false,
+    "breadcrumbs.enabled": false,
+    "workbench.sideBar.location": "right",
+    "workbench.iconTheme": "material-icon-theme",
+    "material-icon-theme.hidesExplorerArrows": true,
+    "workbench.tree.enableStickyScroll": true,
+    "workbench.tree.renderIndentGuides": "always",
+    "workbench.tree.indent": 8,
+    "explorer.compactFolders": false,
+    "window.zoomLevel": 0,
+    
+}
